@@ -1,0 +1,5 @@
+@media (max-width: 1068px){
+    ul li a{
+        flex-wrap: wrap;
+    }
+}
